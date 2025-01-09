@@ -1,3 +1,7 @@
+'''
+A Sudoku Solver that uses backtracking to solve the Sudoku board.
+'''
+
 def print_board(board):
     """Prints the Sudoku board."""
     for i in range(9):

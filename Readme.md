@@ -11,3 +11,6 @@ This was needed as these are local files,
 pycache: to store checkpoints during execution of a file
 
 Then a python file was added to test with pylint
+
+![alt text]({5AF65A85-D6BC-4720-B8E4-F7D4D89EDB60}.png)
+I got an error to include a docstring at the start of the file
